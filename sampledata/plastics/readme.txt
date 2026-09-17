@@ -1,1 +1,2 @@
-This folder contains data for in-class activities on 9/14 and 9/16
+This folder contains data for in-class activities on 9/14 and 9/16. It has been updated 9/17 to include zip files for all of the known plastics (you can download these and add them to your google drive if you need more known spectra),
+and 5 separate mystery sets have been added for groups working on various pairs of polymers. The set originally plotted in the in-class notebook is in the folder titled "original"
